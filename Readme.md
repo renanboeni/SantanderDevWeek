@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte do Santander Dev Week 2023, com o objet
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/ImRenanb/SantanderDevWeek.git
+   git clone https://github.com/renanboeni/SantanderDevWeek.git
    cd SantanderDevWeek
    ```
 
